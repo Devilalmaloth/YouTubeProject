@@ -1,0 +1,47 @@
+
+p{
+    font-family: arial;
+}
+.video_title{
+     
+    font-weight:bold;
+    font-size:18px;
+    width:300px;
+    line-height: 24px;
+    margin-bottom: 5;
+    
+}
+
+.view_tag{
+    color:rgb(96, 96, 96)
+    ;
+     
+    font-size:14px;
+    margin-top: 0;
+}
+.line{
+    color:rgb(96, 96, 96)
+    ;
+     
+}
+.text_tag{
+    
+    color:rgb(96, 96, 96)
+    ;
+    width:300px;
+    line-height: 22px;
+    padding-bottom: 30px;
+}
+.last_line{
+    background-color:rgb(227, 65, 64) ;
+    color:white;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+   
+}
+.link:hover{
+    text-decoration:underline;
+    cursor: pointer;
+}
